@@ -26,65 +26,131 @@ To begin my career as a **SOC Analyst**, **Cloud Security Engineer**, or **Netwo
 
 ---
 
-# 🛠 Technical Skills
+# 💼 Technical Skills
 
-## Operating Systems
+<table>
+<tr>
 
-- Linux
-- Windows
+<td width="25%" align="center">
 
-## Networking
+### 💻 Operating Systems
 
-- Cisco CCNA
-- TCP/IP
-- Routing & Switching
-- VLAN
-- OSPF
-- ACL
-- NAT
-- DHCP
-- DNS
-- Subnetting
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
-## Cybersecurity
+</td>
 
-- Security Monitoring
-- Vulnerability Assessment
-- Network Security
-- Incident Response
-- OWASP Top 10
-- Risk Assessment
+<td width="25%" align="center">
 
-## Cloud
+### ☁️ Cloud & DevOps
 
-- AWS EC2
-- AWS S3
-- IAM
-- Docker
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
-## Databases
+</td>
 
-- MySQL
-- MariaDB
-- MongoDB
+<td width="25%" align="center">
+
+### 💾 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻 Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,php" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌐 Networking
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Routing-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Switching-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VLAN-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OSPF-E53935?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ACL-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NAT-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DHCP-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DNS-F57C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Subnetting-6D4C41?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🔧 Security & Networking Tools
+## 🔐 Cybersecurity
 
-- Nmap
-- Wireshark
-- Burp Suite
-- Nessus
-- Metasploit Framework
-- EVE-NG
-- Cisco Packet Tracer
-- Docker
-- Git
-- GitHub
-- Visual Studio Code
+<p align="center">
+
+<img src="https://img.shields.io/badge/Network_Security-0B5394?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Security_Monitoring-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-D32F2F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Incident_Response-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Risk_Assessment-5E35B1?style=for-the-badge"/>
+
+</p>
 
 ---
+
+## 🛠️ Security & Networking Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EVE--NG-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 # 💻 Programming & Scripting
 
