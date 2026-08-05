@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,php,bash,linux,docker,aws,git,github,mysql,mongodb,vscode,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,php,bash,kalilinux,docker,aws,git,github,mysql,mongodb,vscode,html,css,js"/>
 
 </p>
 
