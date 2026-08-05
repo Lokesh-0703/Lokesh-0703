@@ -157,9 +157,9 @@ Hands-on networking labs covering:
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: lokesh.m0703@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/lokesh-m-2a350127a/
 
 ---
 
