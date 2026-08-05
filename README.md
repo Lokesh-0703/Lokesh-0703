@@ -152,51 +152,168 @@ To begin my career as a **SOC Analyst**, **Cloud Security Engineer**, or **Netwo
 
 </p>
 
-# 💻 Programming & Scripting
-
-- Python
-- Bash
-- PHP
-- SQL
-
 ---
-
 # 🚀 Featured Projects
 
-## 🏥 Cloud-Based Healthcare Record Management System
+<div align="center">
 
-A secure healthcare management system developed using PHP, MariaDB, Docker, and AWS S3.
+<a href="https://github.com/Lokesh-0703/Cloud-Based-Healthcare-Record-System-using-AWS">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh-0703&repo=Cloud-Based-Healthcare-Record-System-using-AWS&theme=github_dark&hide_border=true"/>
+</a>
 
-### Key Features
+<a href="https://github.com/Lokesh-0703/bash-scripting">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh-0703&repo=bash-scripting&theme=github_dark&hide_border=true"/>
+</a>
 
-- Role-Based Authentication
-- Secure Medical Record Management
-- AWS S3 Integration
-- Appointment Scheduling
-- Digital Prescription Management
-- Docker Deployment
+<a href="https://github.com/Lokesh-0703/BashScripting-assignment">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh-0703&repo=BashScripting-assignment&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Lokesh-0703/webProject">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh-0703&repo=webProject&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
-## 🔍 Risk Assessment Engine Security Review
+<table>
+<tr>
 
-Performed vulnerability assessment and security testing on a modern web application.
+<td width="50%">
+
+## 🏥 Cloud-Based Healthcare Record System
+
+Secure healthcare management platform built using **PHP, MariaDB, Docker, and AWS S3**.
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,docker,aws,git"/>
+
+</p>
+
+### Features
+
+- 🔐 Role-Based Authentication
+- ☁️ AWS S3 Integration
+- 📅 Appointment Booking
+- 📄 Digital Prescriptions
+- 📂 Medical Record Management
+- 🐳 Docker Deployment
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" width="180">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🔐 Risk Assessment Engine
+
+Security assessment and vulnerability analysis of a modern web application.
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,docker,git"/>
+
+</p>
 
 ### Activities
 
-- Security Review
-- Burp Suite Testing
-- Authentication Analysis
-- OWASP Testing
-- Vulnerability Documentation
+- 🛡️ Vulnerability Assessment
+- 🔍 Burp Suite Testing
+- 📊 OWASP Analysis
+- 📄 Security Documentation
+- ⚠️ Risk Assessment
+
+</td>
+
+<td width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="170">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🐧 Linux Bash Automation
+<table>
+<tr>
 
-Collection of Linux administration and automation scripts.
+<td width="50%">
+
+## 🌐 CCNA & Networking Labs
+
+Hands-on networking labs built using Cisco Packet Tracer and EVE-NG.
+
+### Topics
+
+- VLAN
+- Routing
+- OSPF
+- ACL
+- NAT
+- DHCP
+- DNS
+
+</td>
+
+<td width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="170">
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🐧 Linux & Bash Automation
+
+Linux administration scripts and automation utilities.
+
+### Topics
+
+- Shell Scripting
+- Process Management
+- File Operations
+- Cron Jobs
+- User Management
+- Automation
+
+</td>
+
+<td width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="170">
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 CCNA Networking Labs
 
