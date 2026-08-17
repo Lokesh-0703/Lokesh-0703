@@ -221,43 +221,7 @@ Secure healthcare management platform built using **PHP, MariaDB, Docker, and AW
 
 <td width="50%">
 
-## 🔐 Risk Assessment Engine
 
-Security assessment and vulnerability analysis of a modern web application.
-
-### Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,docker,git"/>
-
-</p>
-
-### Activities
-
-- 🛡️ Vulnerability Assessment
-- 🔍 Burp Suite Testing
-- 📊 OWASP Analysis
-- 📄 Security Documentation
-- ⚠️ Risk Assessment
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="170">
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
 
 ## 🌐 CCNA & Networking Labs
 
@@ -291,43 +255,7 @@ Hands-on networking labs built using Cisco Packet Tracer and EVE-NG.
 
 <td width="50%">
 
-## 🐧 Linux & Bash Automation
 
-Linux administration scripts and automation utilities.
-
-### Topics
-
-- Shell Scripting
-- Process Management
-- File Operations
-- Cron Jobs
-- User Management
-- Automation
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="170">
-
-</td>
-
-</tr>
-</table>
-
-## 🌐 CCNA Networking Labs
-
-Hands-on networking labs covering:
-
-- VLAN
-- Routing
-- OSPF
-- ACL
-- NAT
-- DHCP
-- Inter-VLAN Routing
-
----
 
 # 📜 Certifications
 
