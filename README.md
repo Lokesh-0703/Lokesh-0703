@@ -176,51 +176,23 @@ To begin my career as a **SOC Analyst**, **Cloud Security Engineer**, or **Netwo
 </div>
 
 ---
-
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🏥 Cloud-Based Healthcare Record System
 
-Secure healthcare management platform built using **PHP, MariaDB, Docker, and AWS S3**.
-
-### Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=php,mysql,docker,aws,git"/>
-
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Lokesh-0703/Cloud-Based-Healthcare-Record-System-using-AWS/main/assets/healthcare-project.png"
+    width="100%"
+    alt="Cloud-Based Healthcare Record System"
+  />
 </p>
 
-### Features
+### 🔗 Project Repository
 
-- 🔐 Role-Based Authentication
-- ☁️ AWS S3 Integration
-- 📅 Appointment Booking
-- 📄 Digital Prescriptions
-- 📂 Medical Record Management
-- 🐳 Docker Deployment
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" width="180">
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
+<p align="center">
+  <a href="https://github.com/Lokesh-0703/Cloud-Based-Healthcare-Record-System-using-AWS">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 
 ## 🌐 CCNA & Networking Labs
