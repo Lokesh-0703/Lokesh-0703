@@ -180,7 +180,7 @@ To begin my career as a **SOC Analyst**, **Cloud Security Engineer**, or **Netwo
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Lokesh-0703/Cloud-Based-Healthcare-Record-System-using-AWS/main/assets/healthcare-project.png"
+    src="https://raw.githubusercontent.com/Lokesh-0703/Lokesh-0703/main/assets/healthcare-project.png"
     width="100%"
     alt="Cloud-Based Healthcare Record System"
   />
